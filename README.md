@@ -1,29 +1,24 @@
 <img width = 100% src = "https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
+<h1 align="center">Hello 👋, I'm Abdelrahman Rageh</h1>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=40&pause=1000&color=%23%2370a5fd&center=true&vCenter=true&random=false&width=435&lines=Cs+Student;Frontend+Developer;Graphic+designer" alt="Typing SVG" /></a></a>
+</h3>
+
+<br>
+<br>
 
 <p align = "center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdorageh&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p> -->
-  <h1 align="center">Hello 👋, I'm Abdelrahman Rageh</h1>
-  <br>
-  <br>
-  <h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=40&pause=1000&color=%23%2370a5fd&center=true&vCenter=true&random=false&width=435&lines=Cs+Student;Frontend+Developer;Graphic+designer" alt="Typing SVG" /></a></a>
+  <p align = "left" >
+    <a href="https://github.com/abdorageh">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorageh&layout=compact&theme=tokyonight">
+  </p>
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
-</h3>
-<p align = "center" >
-  <a href="https://github.com/abdorageh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorageh&layout=compact&theme=tokyonight">
-</p>
-  <br>
-  <br>
-  
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
