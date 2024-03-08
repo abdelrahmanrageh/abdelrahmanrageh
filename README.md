@@ -4,9 +4,10 @@
 	  <img src="https://i.ibb.co/LCs56GG/f58fe8e19a7e25ddf0c459a35ff99261d6.gif" alt="Coding pic" />
 </div>
 
+<br><br>
 
 ## 💻Languages and Tools:
-<div align="left">
+<div align="center">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" width="45" alt="html5 logo"  />
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/></a>
@@ -22,6 +23,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" width="45" alt="photoshop logo"  />
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
+<br><br>
 
 ## 💻Connect with me:
 
