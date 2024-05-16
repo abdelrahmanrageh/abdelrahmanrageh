@@ -1,8 +1,16 @@
-<h1 align="center">Hello 👋, I'm Abdelrahman Rageh</h1>
- 
 <div align="center">
 	  <img src="https://i.ibb.co/LCs56GG/f58fe8e19a7e25ddf0c459a35ff99261d6.gif" alt="Coding pic" />
 </div>
+
+<h1 align="center">
+	Hello 👋, I'm Abdelrahman Rageh
+	<div align="center">
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Front+end+developer;Graphic+designer;CS+Student" alt="Typing SVG" /></a>
+	</div>
+</h1>
+
+
+ 
 
 <br><br>
 <h1 align="left">💻Languages and Tools:</h1>
