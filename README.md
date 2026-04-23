@@ -12,8 +12,8 @@
 
  
 
-<br><br>
-<h1 align="left">💻Languages and Tools:</h1>
+<!-- <br><br> -->
+<!-- <h1 align="left">💻Languages and Tools:</h1>
 
 ###
 
@@ -63,24 +63,19 @@
 
 <h1 align="left">🌐Connect with me:</h1>
 
-###
+### -->
 
-<div align="center">
+<!-- <div align="center" >
 	<a href="https://www.linkedin.com/in/abdelrahman-rageh/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 	<a href="https://www.facebook.com/abdelrahmanrageh99">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 	<a href="https://www.behance.net/abdelrarageh">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /></a>
- 
   
- 
-  
-</div>
+</div> -->
 
-###
-
-<div align="left">
-</div>
-
-###
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanrageh)
+[![Facebook](https://img.shields.io/badge/facebook-0A28b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://facebook.com/abdelrahmanrageh99)
+[![Behnace ](https://img.shields.io/badge/behance-0A68b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/abdelrarageh)
 
 
 ###
