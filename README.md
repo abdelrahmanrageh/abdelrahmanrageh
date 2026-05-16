@@ -4,9 +4,9 @@
 
 <h1 align="center">
 	Hello 👋, I'm Abdelrahman Rageh
-	<div align="center">
+	<!-- <div align="center">
 		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Full-Stack+developer;Creative+Director;" alt="Typing SVG" /></a>
-	</div>
+	</div> -->
 </h1>
 
 
@@ -72,7 +72,7 @@
   
 </div> -->
 
-## 🔗 Links
+##  Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanrageh)
 [![Facebook](https://img.shields.io/badge/facebook-0A28b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://facebook.com/abdelrahmanrageh99)
 [![Behnace ](https://img.shields.io/badge/behance-0A68b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/abdelrarageh)
